@@ -2,15 +2,11 @@
 
 Navy-Seal formula is a simple and reliable instrument to measure body composition in adults.
 
-This web site uses React functional components and hooks. ([Why hooks are the best thing to happen to React](https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/))
+This web site uses React functional components and hooks. [Why hooks are the best thing to happen to React](https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/).
 
 ## Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-[Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial).
-
-[Configure the debugger](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_configure-the-debugger).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and developed [using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial).
 
 `npm start` runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
